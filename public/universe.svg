@@ -30,7 +30,7 @@
   <rect width="100%" height="100%" fill="#030014" />
   
   <!-- Copyright Watermark -->
-  <text x="400" y="450" text-anchor="middle" fill="white" opacity="0.1" font-family="Arial, sans-serif" font-size="40" font-weight="bold">© Nimal Danyath K</text>
+  <text x="400" y="450" text-anchor="middle" fill="white" opacity="0.1" font-family="Arial, sans-serif" font-size="40" font-weight="bold">© Vaishnav-sabari-girish</text>
   
   <!-- Stars -->
   <circle cx="100" cy="100" r="1" fill="white" opacity="0.5" />
@@ -46,21 +46,21 @@
     <circle cx="400" cy="300" r="40" fill="url(#sunGradient)">
       <animate attributeName="r" values="40;42;40" dur="4s" repeatCount="indefinite" />
     </circle>
-    <image href="https://avatars.githubusercontent.com/u/191676132?v=4" xlink:href="https://avatars.githubusercontent.com/u/191676132?v=4" x="360" y="260" height="80" width="80" clip-path="url(#sunClip)" opacity="0.8" />
+    <image href="https://avatars.githubusercontent.com/u/88036970?v=4" xlink:href="https://avatars.githubusercontent.com/u/88036970?v=4" x="360" y="260" height="80" width="80" clip-path="url(#sunClip)" opacity="0.8" />
   </g>
   
   <!-- User Name (Center) -->
-  <text x="400" y="360" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Nimal Danyath K</text>
-  <text x="400" y="375" text-anchor="middle" fill="#aaa" font-family="Arial, sans-serif" font-size="10">@nimaldanyathk</text>
+  <text x="400" y="360" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Vaishnav-sabari-girish</text>
+  <text x="400" y="375" text-anchor="middle" fill="#aaa" font-family="Arial, sans-serif" font-size="10">@Vaishnav-Sabari-Girish</text>
 
   <!-- Planets -->
   
-      <!-- Planet: Semicolon-Embedded-C-Project -->
-      <a href="https://github.com/nimaldanyathk/Semicolon-Embedded-C-Project" target="_blank" style="cursor: pointer;">
+      <!-- Planet: ComChan -->
+      <a href="https://github.com/Vaishnav-Sabari-Girish/ComChan" target="_blank" style="cursor: pointer;">
         <defs>
           <radialGradient id="planetGrad-0" cx="30%" cy="30%" r="70%">
-            <stop offset="0%" stop-color="#808080" stop-opacity="1" />
-            <stop offset="50%" stop-color="#808080" stop-opacity="0.8" />
+            <stop offset="0%" stop-color="#DEA584" stop-opacity="1" />
+            <stop offset="50%" stop-color="#DEA584" stop-opacity="0.8" />
             <stop offset="100%" stop-color="#000" stop-opacity="1" />
           </radialGradient>
         </defs>
@@ -80,26 +80,28 @@
             />
             
             <!-- Planet Body (3D Effect) -->
-            <circle cx="520" cy="300" r="36.49150467587961" fill="url(#planetGrad-0)">
-               <title>Semicolon-Embedded-C-Project (C)</title>
+            <circle cx="520" cy="300" r="48.06280262234847" fill="url(#planetGrad-0)">
+               <title>ComChan (Rust)</title>
             </circle>
             
             <!-- Inner Rim Light (Atmosphere) -->
-            <circle cx="520" cy="300" r="36.49150467587961" fill="none" stroke="#00FF94" stroke-width="2" opacity="0.3">
+            <circle cx="520" cy="300" r="48.06280262234847" fill="none" stroke="#FFD700" stroke-width="2" opacity="0.3">
             </circle>
             
             <!-- Texture/Overlay -->
             
             
             
+               <path d="M515 295 L525 305 M522 292 L518 302" stroke="rgba(0,0,0,0.3)" stroke-width="1" />
+            
             
             <!-- Mood Glow -->
-            <circle cx="520" cy="300" r="43.789805611055534" fill="none" stroke="#00FF94" stroke-width="1" opacity="0.4" filter="url(#glow)">
+            <circle cx="520" cy="300" r="57.675363146818164" fill="none" stroke="#FFD700" stroke-width="1" opacity="0.4" filter="url(#glow)">
               <animate attributeName="opacity" values="0.2;0.5;0.2" dur="3s" repeatCount="indefinite" />
             </circle>
 
             <!-- Active Indicator (Ring when HUD is showing this planet) -->
-            <circle cx="520" cy="300" r="46.49150467587961" fill="none" stroke="white" stroke-width="1.5" stroke-dasharray="3 3" opacity="0">
+            <circle cx="520" cy="300" r="58.06280262234847" fill="none" stroke="white" stroke-width="1.5" stroke-dasharray="3 3" opacity="0">
                <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0;0.1;1" dur="40s" repeatCount="indefinite" />
                <animateTransform attributeName="transform" type="rotate" from="0 520 300" to="360 520 300" dur="10s" repeatCount="indefinite" />
             </circle>
@@ -115,8 +117,8 @@
                   dur="31.25s" 
                   repeatCount="indefinite" 
               />
-              <text x="520" y="351.4915046758796" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold" style="text-shadow: 0px 0px 4px black;">
-                Semicolon-Embedded-C-Project
+              <text x="520" y="363.0628026223485" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold" style="text-shadow: 0px 0px 4px black;">
+                ComChan
               </text>
             </g>
           </g>
@@ -124,12 +126,12 @@
       </a>
     
 
-      <!-- Planet: sparkd -->
-      <a href="https://github.com/nimaldanyathk/sparkd" target="_blank" style="cursor: pointer;">
+      <!-- Planet: arduino-cli-interactive -->
+      <a href="https://github.com/Vaishnav-Sabari-Girish/arduino-cli-interactive" target="_blank" style="cursor: pointer;">
         <defs>
           <radialGradient id="planetGrad-1" cx="30%" cy="30%" r="70%">
-            <stop offset="0%" stop-color="#F7DF1E" stop-opacity="1" />
-            <stop offset="50%" stop-color="#F7DF1E" stop-opacity="0.8" />
+            <stop offset="0%" stop-color="#808080" stop-opacity="1" />
+            <stop offset="50%" stop-color="#808080" stop-opacity="0.8" />
             <stop offset="100%" stop-color="#000" stop-opacity="1" />
           </radialGradient>
         </defs>
@@ -149,26 +151,28 @@
             />
             
             <!-- Planet Body (3D Effect) -->
-            <circle cx="580" cy="300" r="42.56395394059772" fill="url(#planetGrad-1)">
-               <title>sparkd (JavaScript)</title>
+            <circle cx="580" cy="300" r="50.17967849510079" fill="url(#planetGrad-1)">
+               <title>arduino-cli-interactive (Shell)</title>
             </circle>
             
             <!-- Inner Rim Light (Atmosphere) -->
-            <circle cx="580" cy="300" r="42.56395394059772" fill="none" stroke="#00C2FF" stroke-width="2" opacity="0.3">
+            <circle cx="580" cy="300" r="50.17967849510079" fill="none" stroke="#FF00E6" stroke-width="2" opacity="0.3">
             </circle>
             
             <!-- Texture/Overlay -->
             
             
             
+               <path d="M575 295 L585 305 M582 292 L578 302" stroke="rgba(0,0,0,0.3)" stroke-width="1" />
+            
             
             <!-- Mood Glow -->
-            <circle cx="580" cy="300" r="51.076744728717266" fill="none" stroke="#00C2FF" stroke-width="1" opacity="0.4" filter="url(#glow)">
+            <circle cx="580" cy="300" r="60.215614194120946" fill="none" stroke="#FF00E6" stroke-width="1" opacity="0.4" filter="url(#glow)">
               <animate attributeName="opacity" values="0.2;0.5;0.2" dur="3s" repeatCount="indefinite" />
             </circle>
 
             <!-- Active Indicator (Ring when HUD is showing this planet) -->
-            <circle cx="580" cy="300" r="52.56395394059772" fill="none" stroke="white" stroke-width="1.5" stroke-dasharray="3 3" opacity="0">
+            <circle cx="580" cy="300" r="60.17967849510079" fill="none" stroke="white" stroke-width="1.5" stroke-dasharray="3 3" opacity="0">
                <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.2;1" dur="40s" repeatCount="indefinite" />
                <animateTransform attributeName="transform" type="rotate" from="0 580 300" to="360 580 300" dur="10s" repeatCount="indefinite" />
             </circle>
@@ -184,8 +188,8 @@
                   dur="26.31578947368421s" 
                   repeatCount="indefinite" 
               />
-              <text x="580" y="357.56395394059774" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold" style="text-shadow: 0px 0px 4px black;">
-                sparkd
+              <text x="580" y="365.1796784951008" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold" style="text-shadow: 0px 0px 4px black;">
+                arduino-cli-interactive
               </text>
             </g>
           </g>
@@ -193,12 +197,12 @@
       </a>
     
 
-      <!-- Planet: TheInspirationalBoat -->
-      <a href="https://github.com/nimaldanyathk/TheInspirationalBoat" target="_blank" style="cursor: pointer;">
+      <!-- Planet: Hayasen -->
+      <a href="https://github.com/Vaishnav-Sabari-Girish/Hayasen" target="_blank" style="cursor: pointer;">
         <defs>
           <radialGradient id="planetGrad-2" cx="30%" cy="30%" r="70%">
-            <stop offset="0%" stop-color="#E34F26" stop-opacity="1" />
-            <stop offset="50%" stop-color="#E34F26" stop-opacity="0.8" />
+            <stop offset="0%" stop-color="#DEA584" stop-opacity="1" />
+            <stop offset="50%" stop-color="#DEA584" stop-opacity="0.8" />
             <stop offset="100%" stop-color="#000" stop-opacity="1" />
           </radialGradient>
         </defs>
@@ -218,28 +222,26 @@
             />
             
             <!-- Planet Body (3D Effect) -->
-            <circle cx="640" cy="300" r="51.28464824441333" fill="url(#planetGrad-2)">
-               <title>TheInspirationalBoat (HTML)</title>
+            <circle cx="640" cy="300" r="47.07889200285166" fill="url(#planetGrad-2)">
+               <title>Hayasen (Rust)</title>
             </circle>
             
             <!-- Inner Rim Light (Atmosphere) -->
-            <circle cx="640" cy="300" r="51.28464824441333" fill="none" stroke="#FF4500" stroke-width="2" opacity="0.3">
+            <circle cx="640" cy="300" r="47.07889200285166" fill="none" stroke="#00FF94" stroke-width="2" opacity="0.3">
             </circle>
             
             <!-- Texture/Overlay -->
             
             
             
-               <path d="M635 295 L645 305 M642 292 L638 302" stroke="rgba(0,0,0,0.3)" stroke-width="1" />
-            
             
             <!-- Mood Glow -->
-            <circle cx="640" cy="300" r="61.541577893295994" fill="none" stroke="#FF4500" stroke-width="1" opacity="0.4" filter="url(#glow)">
+            <circle cx="640" cy="300" r="56.49467040342199" fill="none" stroke="#00FF94" stroke-width="1" opacity="0.4" filter="url(#glow)">
               <animate attributeName="opacity" values="0.2;0.5;0.2" dur="3s" repeatCount="indefinite" />
             </circle>
 
             <!-- Active Indicator (Ring when HUD is showing this planet) -->
-            <circle cx="640" cy="300" r="61.28464824441333" fill="none" stroke="white" stroke-width="1.5" stroke-dasharray="3 3" opacity="0">
+            <circle cx="640" cy="300" r="57.07889200285166" fill="none" stroke="white" stroke-width="1.5" stroke-dasharray="3 3" opacity="0">
                <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.2;0.3;1" dur="40s" repeatCount="indefinite" />
                <animateTransform attributeName="transform" type="rotate" from="0 640 300" to="360 640 300" dur="10s" repeatCount="indefinite" />
             </circle>
@@ -255,8 +257,8 @@
                   dur="22.727272727272727s" 
                   repeatCount="indefinite" 
               />
-              <text x="640" y="366.28464824441335" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold" style="text-shadow: 0px 0px 4px black;">
-                TheInspirationalBoat
+              <text x="640" y="362.07889200285166" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold" style="text-shadow: 0px 0px 4px black;">
+                Hayasen
               </text>
             </g>
           </g>
@@ -264,12 +266,12 @@
       </a>
     
 
-      <!-- Planet: Discrete_Mathematics_Algorithms -->
-      <a href="https://github.com/nimaldanyathk/Discrete_Mathematics_Algorithms" target="_blank" style="cursor: pointer;">
+      <!-- Planet: sbor -->
+      <a href="https://github.com/Vaishnav-Sabari-Girish/sbor" target="_blank" style="cursor: pointer;">
         <defs>
           <radialGradient id="planetGrad-3" cx="30%" cy="30%" r="70%">
-            <stop offset="0%" stop-color="#3776AB" stop-opacity="1" />
-            <stop offset="50%" stop-color="#3776AB" stop-opacity="0.8" />
+            <stop offset="0%" stop-color="#808080" stop-opacity="1" />
+            <stop offset="50%" stop-color="#808080" stop-opacity="0.8" />
             <stop offset="100%" stop-color="#000" stop-opacity="1" />
           </radialGradient>
         </defs>
@@ -289,12 +291,12 @@
             />
             
             <!-- Planet Body (3D Effect) -->
-            <circle cx="700" cy="300" r="25.83773044716594" fill="url(#planetGrad-3)">
-               <title>Discrete_Mathematics_Algorithms (Python)</title>
+            <circle cx="700" cy="300" r="43.32708724974574" fill="url(#planetGrad-3)">
+               <title>sbor (C)</title>
             </circle>
             
             <!-- Inner Rim Light (Atmosphere) -->
-            <circle cx="700" cy="300" r="25.83773044716594" fill="none" stroke="#00C2FF" stroke-width="2" opacity="0.3">
+            <circle cx="700" cy="300" r="43.32708724974574" fill="none" stroke="#00FF94" stroke-width="2" opacity="0.3">
             </circle>
             
             <!-- Texture/Overlay -->
@@ -303,12 +305,12 @@
             
             
             <!-- Mood Glow -->
-            <circle cx="700" cy="300" r="31.005276536599126" fill="none" stroke="#00C2FF" stroke-width="1" opacity="0.4" filter="url(#glow)">
+            <circle cx="700" cy="300" r="51.992504699694884" fill="none" stroke="#00FF94" stroke-width="1" opacity="0.4" filter="url(#glow)">
               <animate attributeName="opacity" values="0.2;0.5;0.2" dur="3s" repeatCount="indefinite" />
             </circle>
 
             <!-- Active Indicator (Ring when HUD is showing this planet) -->
-            <circle cx="700" cy="300" r="35.83773044716594" fill="none" stroke="white" stroke-width="1.5" stroke-dasharray="3 3" opacity="0">
+            <circle cx="700" cy="300" r="53.32708724974574" fill="none" stroke="white" stroke-width="1.5" stroke-dasharray="3 3" opacity="0">
                <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.3;0.4;1" dur="40s" repeatCount="indefinite" />
                <animateTransform attributeName="transform" type="rotate" from="0 700 300" to="360 700 300" dur="10s" repeatCount="indefinite" />
             </circle>
@@ -324,8 +326,8 @@
                   dur="20s" 
                   repeatCount="indefinite" 
               />
-              <text x="700" y="340.83773044716594" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold" style="text-shadow: 0px 0px 4px black;">
-                Discrete_Mathematics_Algorithms
+              <text x="700" y="358.3270872497457" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold" style="text-shadow: 0px 0px 4px black;">
+                sbor
               </text>
             </g>
           </g>
@@ -333,12 +335,12 @@
       </a>
     
 
-      <!-- Planet: Linear_Algebra_Matlab -->
-      <a href="https://github.com/nimaldanyathk/Linear_Algebra_Matlab" target="_blank" style="cursor: pointer;">
+      <!-- Planet: Kiroku -->
+      <a href="https://github.com/Vaishnav-Sabari-Girish/Kiroku" target="_blank" style="cursor: pointer;">
         <defs>
           <radialGradient id="planetGrad-4" cx="30%" cy="30%" r="70%">
-            <stop offset="0%" stop-color="#808080" stop-opacity="1" />
-            <stop offset="50%" stop-color="#808080" stop-opacity="0.8" />
+            <stop offset="0%" stop-color="#DEA584" stop-opacity="1" />
+            <stop offset="50%" stop-color="#DEA584" stop-opacity="0.8" />
             <stop offset="100%" stop-color="#000" stop-opacity="1" />
           </radialGradient>
         </defs>
@@ -358,12 +360,12 @@
             />
             
             <!-- Planet Body (3D Effect) -->
-            <circle cx="760" cy="300" r="46.89945133719329" fill="url(#planetGrad-4)">
-               <title>Linear_Algebra_Matlab (MATLAB)</title>
+            <circle cx="760" cy="300" r="41.747645171343166" fill="url(#planetGrad-4)">
+               <title>Kiroku (Rust)</title>
             </circle>
             
             <!-- Inner Rim Light (Atmosphere) -->
-            <circle cx="760" cy="300" r="46.89945133719329" fill="none" stroke="#FF4500" stroke-width="2" opacity="0.3">
+            <circle cx="760" cy="300" r="41.747645171343166" fill="none" stroke="#00FF94" stroke-width="2" opacity="0.3">
             </circle>
             
             <!-- Texture/Overlay -->
@@ -372,12 +374,12 @@
             
             
             <!-- Mood Glow -->
-            <circle cx="760" cy="300" r="56.279341604631945" fill="none" stroke="#FF4500" stroke-width="1" opacity="0.4" filter="url(#glow)">
+            <circle cx="760" cy="300" r="50.0971742056118" fill="none" stroke="#00FF94" stroke-width="1" opacity="0.4" filter="url(#glow)">
               <animate attributeName="opacity" values="0.2;0.5;0.2" dur="3s" repeatCount="indefinite" />
             </circle>
 
             <!-- Active Indicator (Ring when HUD is showing this planet) -->
-            <circle cx="760" cy="300" r="56.89945133719329" fill="none" stroke="white" stroke-width="1.5" stroke-dasharray="3 3" opacity="0">
+            <circle cx="760" cy="300" r="51.747645171343166" fill="none" stroke="white" stroke-width="1.5" stroke-dasharray="3 3" opacity="0">
                <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.4;0.5;1" dur="40s" repeatCount="indefinite" />
                <animateTransform attributeName="transform" type="rotate" from="0 760 300" to="360 760 300" dur="10s" repeatCount="indefinite" />
             </circle>
@@ -393,8 +395,8 @@
                   dur="17.857142857142858s" 
                   repeatCount="indefinite" 
               />
-              <text x="760" y="361.8994513371933" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold" style="text-shadow: 0px 0px 4px black;">
-                Linear_Algebra_Matlab
+              <text x="760" y="356.74764517134315" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold" style="text-shadow: 0px 0px 4px black;">
+                Kiroku
               </text>
             </g>
           </g>
@@ -402,8 +404,8 @@
       </a>
     
 
-      <!-- Planet: nimaldanyathk -->
-      <a href="https://github.com/nimaldanyathk/nimaldanyathk" target="_blank" style="cursor: pointer;">
+      <!-- Planet: Anime_quote_Terminal -->
+      <a href="https://github.com/Vaishnav-Sabari-Girish/Anime_quote_Terminal" target="_blank" style="cursor: pointer;">
         <defs>
           <radialGradient id="planetGrad-5" cx="30%" cy="30%" r="70%">
             <stop offset="0%" stop-color="#808080" stop-opacity="1" />
@@ -427,12 +429,12 @@
             />
             
             <!-- Planet Body (3D Effect) -->
-            <circle cx="820" cy="300" r="44.47125135508661" fill="url(#planetGrad-5)">
-               <title>nimaldanyathk (null)</title>
+            <circle cx="820" cy="300" r="28.671115273688493" fill="url(#planetGrad-5)">
+               <title>Anime_quote_Terminal (Shell)</title>
             </circle>
             
             <!-- Inner Rim Light (Atmosphere) -->
-            <circle cx="820" cy="300" r="44.47125135508661" fill="none" stroke="#FF00E6" stroke-width="2" opacity="0.3">
+            <circle cx="820" cy="300" r="28.671115273688493" fill="none" stroke="#FF00E6" stroke-width="2" opacity="0.3">
             </circle>
             
             <!-- Texture/Overlay -->
@@ -441,12 +443,12 @@
             
             
             <!-- Mood Glow -->
-            <circle cx="820" cy="300" r="53.36550162610393" fill="none" stroke="#FF00E6" stroke-width="1" opacity="0.4" filter="url(#glow)">
+            <circle cx="820" cy="300" r="34.40533832842619" fill="none" stroke="#FF00E6" stroke-width="1" opacity="0.4" filter="url(#glow)">
               <animate attributeName="opacity" values="0.2;0.5;0.2" dur="3s" repeatCount="indefinite" />
             </circle>
 
             <!-- Active Indicator (Ring when HUD is showing this planet) -->
-            <circle cx="820" cy="300" r="54.47125135508661" fill="none" stroke="white" stroke-width="1.5" stroke-dasharray="3 3" opacity="0">
+            <circle cx="820" cy="300" r="38.67111527368849" fill="none" stroke="white" stroke-width="1.5" stroke-dasharray="3 3" opacity="0">
                <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.5;0.6;1" dur="40s" repeatCount="indefinite" />
                <animateTransform attributeName="transform" type="rotate" from="0 820 300" to="360 820 300" dur="10s" repeatCount="indefinite" />
             </circle>
@@ -462,8 +464,8 @@
                   dur="16.129032258064516s" 
                   repeatCount="indefinite" 
               />
-              <text x="820" y="359.4712513550866" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold" style="text-shadow: 0px 0px 4px black;">
-                nimaldanyathk
+              <text x="820" y="343.6711152736885" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold" style="text-shadow: 0px 0px 4px black;">
+                Anime_quote_Terminal
               </text>
             </g>
           </g>
@@ -471,8 +473,8 @@
       </a>
     
 
-      <!-- Planet: E-HealthCare-Management-System -->
-      <a href="https://github.com/nimaldanyathk/E-HealthCare-Management-System" target="_blank" style="cursor: pointer;">
+      <!-- Planet: dotfiles -->
+      <a href="https://github.com/Vaishnav-Sabari-Girish/dotfiles" target="_blank" style="cursor: pointer;">
         <defs>
           <radialGradient id="planetGrad-6" cx="30%" cy="30%" r="70%">
             <stop offset="0%" stop-color="#808080" stop-opacity="1" />
@@ -496,26 +498,28 @@
             />
             
             <!-- Planet Body (3D Effect) -->
-            <circle cx="880" cy="300" r="42.339755297473175" fill="url(#planetGrad-6)">
-               <title>E-HealthCare-Management-System (null)</title>
+            <circle cx="880" cy="300" r="58.17304534300449" fill="url(#planetGrad-6)">
+               <title>dotfiles (Shell)</title>
             </circle>
             
             <!-- Inner Rim Light (Atmosphere) -->
-            <circle cx="880" cy="300" r="42.339755297473175" fill="none" stroke="#FF00E6" stroke-width="2" opacity="0.3">
+            <circle cx="880" cy="300" r="58.17304534300449" fill="none" stroke="#FF00E6" stroke-width="2" opacity="0.3">
             </circle>
             
             <!-- Texture/Overlay -->
             
             
             
+               <path d="M875 295 L885 305 M882 292 L878 302" stroke="rgba(0,0,0,0.3)" stroke-width="1" />
+            
             
             <!-- Mood Glow -->
-            <circle cx="880" cy="300" r="50.807706356967806" fill="none" stroke="#FF00E6" stroke-width="1" opacity="0.4" filter="url(#glow)">
+            <circle cx="880" cy="300" r="69.80765441160538" fill="none" stroke="#FF00E6" stroke-width="1" opacity="0.4" filter="url(#glow)">
               <animate attributeName="opacity" values="0.2;0.5;0.2" dur="3s" repeatCount="indefinite" />
             </circle>
 
             <!-- Active Indicator (Ring when HUD is showing this planet) -->
-            <circle cx="880" cy="300" r="52.339755297473175" fill="none" stroke="white" stroke-width="1.5" stroke-dasharray="3 3" opacity="0">
+            <circle cx="880" cy="300" r="68.17304534300449" fill="none" stroke="white" stroke-width="1.5" stroke-dasharray="3 3" opacity="0">
                <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.6;0.7;1" dur="40s" repeatCount="indefinite" />
                <animateTransform attributeName="transform" type="rotate" from="0 880 300" to="360 880 300" dur="10s" repeatCount="indefinite" />
             </circle>
@@ -531,8 +535,8 @@
                   dur="14.705882352941176s" 
                   repeatCount="indefinite" 
               />
-              <text x="880" y="357.3397552974732" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold" style="text-shadow: 0px 0px 4px black;">
-                E-HealthCare-Management-System
+              <text x="880" y="373.1730453430045" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold" style="text-shadow: 0px 0px 4px black;">
+                dotfiles
               </text>
             </g>
           </g>
@@ -540,12 +544,12 @@
       </a>
     
 
-      <!-- Planet: react-bits -->
-      <a href="https://github.com/nimaldanyathk/react-bits" target="_blank" style="cursor: pointer;">
+      <!-- Planet: Embedded-Rust -->
+      <a href="https://github.com/Vaishnav-Sabari-Girish/Embedded-Rust" target="_blank" style="cursor: pointer;">
         <defs>
           <radialGradient id="planetGrad-7" cx="30%" cy="30%" r="70%">
-            <stop offset="0%" stop-color="#808080" stop-opacity="1" />
-            <stop offset="50%" stop-color="#808080" stop-opacity="0.8" />
+            <stop offset="0%" stop-color="#DEA584" stop-opacity="1" />
+            <stop offset="50%" stop-color="#DEA584" stop-opacity="0.8" />
             <stop offset="100%" stop-color="#000" stop-opacity="1" />
           </radialGradient>
         </defs>
@@ -565,12 +569,12 @@
             />
             
             <!-- Planet Body (3D Effect) -->
-            <circle cx="940" cy="300" r="50.41211960114672" fill="url(#planetGrad-7)">
-               <title>react-bits (null)</title>
+            <circle cx="940" cy="300" r="56.09022515081872" fill="url(#planetGrad-7)">
+               <title>Embedded-Rust (Rust)</title>
             </circle>
             
             <!-- Inner Rim Light (Atmosphere) -->
-            <circle cx="940" cy="300" r="50.41211960114672" fill="none" stroke="#FF4500" stroke-width="2" opacity="0.3">
+            <circle cx="940" cy="300" r="56.09022515081872" fill="none" stroke="#00FF94" stroke-width="2" opacity="0.3">
             </circle>
             
             <!-- Texture/Overlay -->
@@ -581,12 +585,12 @@
             
             
             <!-- Mood Glow -->
-            <circle cx="940" cy="300" r="60.49454352137606" fill="none" stroke="#FF4500" stroke-width="1" opacity="0.4" filter="url(#glow)">
+            <circle cx="940" cy="300" r="67.30827018098246" fill="none" stroke="#00FF94" stroke-width="1" opacity="0.4" filter="url(#glow)">
               <animate attributeName="opacity" values="0.2;0.5;0.2" dur="3s" repeatCount="indefinite" />
             </circle>
 
             <!-- Active Indicator (Ring when HUD is showing this planet) -->
-            <circle cx="940" cy="300" r="60.41211960114672" fill="none" stroke="white" stroke-width="1.5" stroke-dasharray="3 3" opacity="0">
+            <circle cx="940" cy="300" r="66.09022515081872" fill="none" stroke="white" stroke-width="1.5" stroke-dasharray="3 3" opacity="0">
                <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.7;0.8;1" dur="40s" repeatCount="indefinite" />
                <animateTransform attributeName="transform" type="rotate" from="0 940 300" to="360 940 300" dur="10s" repeatCount="indefinite" />
             </circle>
@@ -602,8 +606,8 @@
                   dur="13.513513513513514s" 
                   repeatCount="indefinite" 
               />
-              <text x="940" y="365.41211960114674" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold" style="text-shadow: 0px 0px 4px black;">
-                react-bits
+              <text x="940" y="371.0902251508187" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold" style="text-shadow: 0px 0px 4px black;">
+                Embedded-Rust
               </text>
             </g>
           </g>
@@ -611,12 +615,12 @@
       </a>
     
 
-      <!-- Planet: repo-verse -->
-      <a href="https://github.com/nimaldanyathk/repo-verse" target="_blank" style="cursor: pointer;">
+      <!-- Planet: Hayasen-Examples -->
+      <a href="https://github.com/Vaishnav-Sabari-Girish/Hayasen-Examples" target="_blank" style="cursor: pointer;">
         <defs>
           <radialGradient id="planetGrad-8" cx="30%" cy="30%" r="70%">
-            <stop offset="0%" stop-color="#3178C6" stop-opacity="1" />
-            <stop offset="50%" stop-color="#3178C6" stop-opacity="0.8" />
+            <stop offset="0%" stop-color="#DEA584" stop-opacity="1" />
+            <stop offset="50%" stop-color="#DEA584" stop-opacity="0.8" />
             <stop offset="100%" stop-color="#000" stop-opacity="1" />
           </radialGradient>
         </defs>
@@ -636,26 +640,28 @@
             />
             
             <!-- Planet Body (3D Effect) -->
-            <circle cx="1000" cy="300" r="35.03190588228877" fill="url(#planetGrad-8)">
-               <title>repo-verse (TypeScript)</title>
+            <circle cx="1000" cy="300" r="48.877465446079505" fill="url(#planetGrad-8)">
+               <title>Hayasen-Examples (Rust)</title>
             </circle>
             
             <!-- Inner Rim Light (Atmosphere) -->
-            <circle cx="1000" cy="300" r="35.03190588228877" fill="none" stroke="#00FF94" stroke-width="2" opacity="0.3">
+            <circle cx="1000" cy="300" r="48.877465446079505" fill="none" stroke="#FF4500" stroke-width="2" opacity="0.3">
             </circle>
             
             <!-- Texture/Overlay -->
             
             
             
+               <path d="M995 295 L1005 305 M1002 292 L998 302" stroke="rgba(0,0,0,0.3)" stroke-width="1" />
+            
             
             <!-- Mood Glow -->
-            <circle cx="1000" cy="300" r="42.03828705874652" fill="none" stroke="#00FF94" stroke-width="1" opacity="0.4" filter="url(#glow)">
+            <circle cx="1000" cy="300" r="58.652958535295404" fill="none" stroke="#FF4500" stroke-width="1" opacity="0.4" filter="url(#glow)">
               <animate attributeName="opacity" values="0.2;0.5;0.2" dur="3s" repeatCount="indefinite" />
             </circle>
 
             <!-- Active Indicator (Ring when HUD is showing this planet) -->
-            <circle cx="1000" cy="300" r="45.03190588228877" fill="none" stroke="white" stroke-width="1.5" stroke-dasharray="3 3" opacity="0">
+            <circle cx="1000" cy="300" r="58.877465446079505" fill="none" stroke="white" stroke-width="1.5" stroke-dasharray="3 3" opacity="0">
                <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.8;0.9;1" dur="40s" repeatCount="indefinite" />
                <animateTransform attributeName="transform" type="rotate" from="0 1000 300" to="360 1000 300" dur="10s" repeatCount="indefinite" />
             </circle>
@@ -671,8 +677,8 @@
                   dur="12.5s" 
                   repeatCount="indefinite" 
               />
-              <text x="1000" y="350.03190588228875" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold" style="text-shadow: 0px 0px 4px black;">
-                repo-verse
+              <text x="1000" y="363.8774654460795" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold" style="text-shadow: 0px 0px 4px black;">
+                Hayasen-Examples
               </text>
             </g>
           </g>
@@ -680,12 +686,12 @@
       </a>
     
 
-      <!-- Planet: brAIn -->
-      <a href="https://github.com/nimaldanyathk/brAIn" target="_blank" style="cursor: pointer;">
+      <!-- Planet: chart_ratatui -->
+      <a href="https://github.com/Vaishnav-Sabari-Girish/chart_ratatui" target="_blank" style="cursor: pointer;">
         <defs>
           <radialGradient id="planetGrad-9" cx="30%" cy="30%" r="70%">
-            <stop offset="0%" stop-color="#3178C6" stop-opacity="1" />
-            <stop offset="50%" stop-color="#3178C6" stop-opacity="0.8" />
+            <stop offset="0%" stop-color="#DEA584" stop-opacity="1" />
+            <stop offset="50%" stop-color="#DEA584" stop-opacity="0.8" />
             <stop offset="100%" stop-color="#000" stop-opacity="1" />
           </radialGradient>
         </defs>
@@ -705,26 +711,28 @@
             />
             
             <!-- Planet Body (3D Effect) -->
-            <circle cx="1060" cy="300" r="38.13501594210804" fill="url(#planetGrad-9)">
-               <title>brAIn (TypeScript)</title>
+            <circle cx="1060" cy="300" r="54.774655356276256" fill="url(#planetGrad-9)">
+               <title>chart_ratatui (Rust)</title>
             </circle>
             
             <!-- Inner Rim Light (Atmosphere) -->
-            <circle cx="1060" cy="300" r="38.13501594210804" fill="none" stroke="#00FF94" stroke-width="2" opacity="0.3">
+            <circle cx="1060" cy="300" r="54.774655356276256" fill="none" stroke="#FF4500" stroke-width="2" opacity="0.3">
             </circle>
             
             <!-- Texture/Overlay -->
             
             
             
+               <path d="M1055 295 L1065 305 M1062 292 L1058 302" stroke="rgba(0,0,0,0.3)" stroke-width="1" />
+            
             
             <!-- Mood Glow -->
-            <circle cx="1060" cy="300" r="45.762019130529644" fill="none" stroke="#00FF94" stroke-width="1" opacity="0.4" filter="url(#glow)">
+            <circle cx="1060" cy="300" r="65.7295864275315" fill="none" stroke="#FF4500" stroke-width="1" opacity="0.4" filter="url(#glow)">
               <animate attributeName="opacity" values="0.2;0.5;0.2" dur="3s" repeatCount="indefinite" />
             </circle>
 
             <!-- Active Indicator (Ring when HUD is showing this planet) -->
-            <circle cx="1060" cy="300" r="48.13501594210804" fill="none" stroke="white" stroke-width="1.5" stroke-dasharray="3 3" opacity="0">
+            <circle cx="1060" cy="300" r="64.77465535627626" fill="none" stroke="white" stroke-width="1.5" stroke-dasharray="3 3" opacity="0">
                <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.9;1;1" dur="40s" repeatCount="indefinite" />
                <animateTransform attributeName="transform" type="rotate" from="0 1060 300" to="360 1060 300" dur="10s" repeatCount="indefinite" />
             </circle>
@@ -740,8 +748,8 @@
                   dur="11.627906976744185s" 
                   repeatCount="indefinite" 
               />
-              <text x="1060" y="353.13501594210805" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold" style="text-shadow: 0px 0px 4px black;">
-                brAIn
+              <text x="1060" y="369.77465535627624" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold" style="text-shadow: 0px 0px 4px black;">
+                chart_ratatui
               </text>
             </g>
           </g>
@@ -759,12 +767,12 @@
         <animate attributeName="opacity" values="1; 1; 0; 0" keyTimes="0; 0.099; 0.1; 1" dur="40s" repeatCount="indefinite" />
 
         <!-- Panel Content -->
-        <text x="20" y="520" fill="#00FF94" font-family="Courier New, monospace" font-size="16" font-weight="bold">> Semicolon-Embedded-C-Project</text>
-        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: C | STARS: 6</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: FOCUSED | SIZE: 244kb</text>
+        <text x="20" y="520" fill="#FFD700" font-family="Courier New, monospace" font-size="16" font-weight="bold">> ComChan</text>
+        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: Rust | STARS: 65</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: HAPPY | SIZE: 11548kb</text>
         
         <!-- Progress Bar -->
-        <rect x="20" y="565" width="0" height="2" fill="#00FF94">
+        <rect x="20" y="565" width="0" height="2" fill="#FFD700">
             <animate attributeName="width" values="0;200" begin="0s" dur="4s" fill="freeze" />
         </rect>
       </g>
@@ -775,12 +783,12 @@
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.1; 0.101; 0.199; 0.2; 1" dur="40s" repeatCount="indefinite" />
 
         <!-- Panel Content -->
-        <text x="20" y="520" fill="#00C2FF" font-family="Courier New, monospace" font-size="16" font-weight="bold">> sparkd</text>
-        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: JavaScript | STARS: 5</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: CALM | SIZE: 1847kb</text>
+        <text x="20" y="520" fill="#FF00E6" font-family="Courier New, monospace" font-size="16" font-weight="bold">> arduino-cli-interactive</text>
+        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: Shell | STARS: 34</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: ENERGETIC | SIZE: 23386kb</text>
         
         <!-- Progress Bar -->
-        <rect x="20" y="565" width="0" height="2" fill="#00C2FF">
+        <rect x="20" y="565" width="0" height="2" fill="#FF00E6">
             <animate attributeName="width" values="0;200" begin="4s" dur="4s" fill="freeze" />
         </rect>
       </g>
@@ -791,12 +799,12 @@
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.2; 0.201; 0.299; 0.3; 1" dur="40s" repeatCount="indefinite" />
 
         <!-- Panel Content -->
-        <text x="20" y="520" fill="#FF4500" font-family="Courier New, monospace" font-size="16" font-weight="bold">> TheInspirationalBoat</text>
-        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: HTML | STARS: 2</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: STRESSED | SIZE: 33800kb</text>
+        <text x="20" y="520" fill="#00FF94" font-family="Courier New, monospace" font-size="16" font-weight="bold">> Hayasen</text>
+        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: Rust | STARS: 25</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: FOCUSED | SIZE: 8319kb</text>
         
         <!-- Progress Bar -->
-        <rect x="20" y="565" width="0" height="2" fill="#FF4500">
+        <rect x="20" y="565" width="0" height="2" fill="#00FF94">
             <animate attributeName="width" values="0;200" begin="8s" dur="4s" fill="freeze" />
         </rect>
       </g>
@@ -807,12 +815,12 @@
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.3; 0.301; 0.399; 0.4; 1" dur="40s" repeatCount="indefinite" />
 
         <!-- Panel Content -->
-        <text x="20" y="520" fill="#00C2FF" font-family="Courier New, monospace" font-size="16" font-weight="bold">> Discrete_Mathematics_Algorithms</text>
-        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: Python | STARS: 2</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: CALM | SIZE: 7kb</text>
+        <text x="20" y="520" fill="#00FF94" font-family="Courier New, monospace" font-size="16" font-weight="bold">> sbor</text>
+        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: C | STARS: 20</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: FOCUSED | SIZE: 2382kb</text>
         
         <!-- Progress Bar -->
-        <rect x="20" y="565" width="0" height="2" fill="#00C2FF">
+        <rect x="20" y="565" width="0" height="2" fill="#00FF94">
             <animate attributeName="width" values="0;200" begin="12s" dur="4s" fill="freeze" />
         </rect>
       </g>
@@ -823,12 +831,12 @@
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.4; 0.401; 0.499; 0.5; 1" dur="40s" repeatCount="indefinite" />
 
         <!-- Panel Content -->
-        <text x="20" y="520" fill="#FF4500" font-family="Courier New, monospace" font-size="16" font-weight="bold">> Linear_Algebra_Matlab</text>
-        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: MATLAB | STARS: 2</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: STRESSED | SIZE: 7836kb</text>
+        <text x="20" y="520" fill="#00FF94" font-family="Courier New, monospace" font-size="16" font-weight="bold">> Kiroku</text>
+        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: Rust | STARS: 13</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: FOCUSED | SIZE: 1407kb</text>
         
         <!-- Progress Bar -->
-        <rect x="20" y="565" width="0" height="2" fill="#FF4500">
+        <rect x="20" y="565" width="0" height="2" fill="#00FF94">
             <animate attributeName="width" values="0;200" begin="16s" dur="4s" fill="freeze" />
         </rect>
       </g>
@@ -839,9 +847,9 @@
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.5; 0.501; 0.599; 0.6; 1" dur="40s" repeatCount="indefinite" />
 
         <!-- Panel Content -->
-        <text x="20" y="520" fill="#FF00E6" font-family="Courier New, monospace" font-size="16" font-weight="bold">> nimaldanyathk</text>
-        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: N/A | STARS: 1</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: ENERGETIC | SIZE: 3488kb</text>
+        <text x="20" y="520" fill="#FF00E6" font-family="Courier New, monospace" font-size="16" font-weight="bold">> Anime_quote_Terminal</text>
+        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: Shell | STARS: 5</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: ENERGETIC | SIZE: 18kb</text>
         
         <!-- Progress Bar -->
         <rect x="20" y="565" width="0" height="2" fill="#FF00E6">
@@ -855,9 +863,9 @@
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.6; 0.601; 0.699; 0.7; 1" dur="40s" repeatCount="indefinite" />
 
         <!-- Panel Content -->
-        <text x="20" y="520" fill="#FF00E6" font-family="Courier New, monospace" font-size="16" font-weight="bold">> E-HealthCare-Management-System</text>
-        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: N/A | STARS: 1</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: ENERGETIC | SIZE: 1714kb</text>
+        <text x="20" y="520" fill="#FF00E6" font-family="Courier New, monospace" font-size="16" font-weight="bold">> dotfiles</text>
+        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: Shell | STARS: 2</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: ENERGETIC | SIZE: 335826kb</text>
         
         <!-- Progress Bar -->
         <rect x="20" y="565" width="0" height="2" fill="#FF00E6">
@@ -871,12 +879,12 @@
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.7; 0.701; 0.799; 0.8; 1" dur="40s" repeatCount="indefinite" />
 
         <!-- Panel Content -->
-        <text x="20" y="520" fill="#FF4500" font-family="Courier New, monospace" font-size="16" font-weight="bold">> react-bits</text>
-        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: N/A | STARS: 1</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: STRESSED | SIZE: 25270kb</text>
+        <text x="20" y="520" fill="#00FF94" font-family="Courier New, monospace" font-size="16" font-weight="bold">> Embedded-Rust</text>
+        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: Rust | STARS: 2</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: FOCUSED | SIZE: 167724kb</text>
         
         <!-- Progress Bar -->
-        <rect x="20" y="565" width="0" height="2" fill="#FF4500">
+        <rect x="20" y="565" width="0" height="2" fill="#00FF94">
             <animate attributeName="width" values="0;200" begin="28s" dur="4s" fill="freeze" />
         </rect>
       </g>
@@ -887,12 +895,12 @@
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.8; 0.801; 0.899; 0.9; 1" dur="40s" repeatCount="indefinite" />
 
         <!-- Panel Content -->
-        <text x="20" y="520" fill="#00FF94" font-family="Courier New, monospace" font-size="16" font-weight="bold">> repo-verse</text>
-        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: TypeScript | STARS: 0</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: FOCUSED | SIZE: 150kb</text>
+        <text x="20" y="520" fill="#FF4500" font-family="Courier New, monospace" font-size="16" font-weight="bold">> Hayasen-Examples</text>
+        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: Rust | STARS: 2</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: STRESSED | SIZE: 15151kb</text>
         
         <!-- Progress Bar -->
-        <rect x="20" y="565" width="0" height="2" fill="#00FF94">
+        <rect x="20" y="565" width="0" height="2" fill="#FF4500">
             <animate attributeName="width" values="0;200" begin="32s" dur="4s" fill="freeze" />
         </rect>
       </g>
@@ -903,12 +911,12 @@
         <animate attributeName="opacity" values="0; 0; 1; 1" keyTimes="0; 0.9; 0.901; 1" dur="40s" repeatCount="indefinite" />
 
         <!-- Panel Content -->
-        <text x="20" y="520" fill="#00FF94" font-family="Courier New, monospace" font-size="16" font-weight="bold">> brAIn</text>
-        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: TypeScript | STARS: 0</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: FOCUSED | SIZE: 422kb</text>
+        <text x="20" y="520" fill="#FF4500" font-family="Courier New, monospace" font-size="16" font-weight="bold">> chart_ratatui</text>
+        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: Rust | STARS: 2</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: STRESSED | SIZE: 108180kb</text>
         
         <!-- Progress Bar -->
-        <rect x="20" y="565" width="0" height="2" fill="#00FF94">
+        <rect x="20" y="565" width="0" height="2" fill="#FF4500">
             <animate attributeName="width" values="0;200" begin="36s" dur="4s" fill="freeze" />
         </rect>
       </g>
@@ -920,6 +928,6 @@
   <!-- Top-Right User Badge -->
   <g transform="translate(730, 20)">
     <circle cx="25" cy="25" r="27" fill="none" stroke="rgba(255,255,255,0.2)" stroke-width="1" />
-    <image href="https://avatars.githubusercontent.com/u/191676132?v=4" xlink:href="https://avatars.githubusercontent.com/u/191676132?v=4" x="0" y="0" height="50" width="50" clip-path="url(#badgeClip)" />
+    <image href="https://avatars.githubusercontent.com/u/88036970?v=4" xlink:href="https://avatars.githubusercontent.com/u/88036970?v=4" x="0" y="0" height="50" width="50" clip-path="url(#badgeClip)" />
   </g>
 </svg>
