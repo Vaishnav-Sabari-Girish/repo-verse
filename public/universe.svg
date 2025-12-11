@@ -404,12 +404,12 @@
       </a>
     
 
-      <!-- Planet: Anime_quote_Terminal -->
-      <a href="https://github.com/Vaishnav-Sabari-Girish/Anime_quote_Terminal" target="_blank" style="cursor: pointer;">
+      <!-- Planet: nibble -->
+      <a href="https://github.com/Vaishnav-Sabari-Girish/nibble" target="_blank" style="cursor: pointer;">
         <defs>
           <radialGradient id="planetGrad-5" cx="30%" cy="30%" r="70%">
-            <stop offset="0%" stop-color="#808080" stop-opacity="1" />
-            <stop offset="50%" stop-color="#808080" stop-opacity="0.8" />
+            <stop offset="0%" stop-color="#DEA584" stop-opacity="1" />
+            <stop offset="50%" stop-color="#DEA584" stop-opacity="0.8" />
             <stop offset="100%" stop-color="#000" stop-opacity="1" />
           </radialGradient>
         </defs>
@@ -429,12 +429,12 @@
             />
             
             <!-- Planet Body (3D Effect) -->
-            <circle cx="820" cy="300" r="28.671115273688493" fill="url(#planetGrad-5)">
-               <title>Anime_quote_Terminal (Shell)</title>
+            <circle cx="820" cy="300" r="33.46590910919642" fill="url(#planetGrad-5)">
+               <title>nibble (Rust)</title>
             </circle>
             
             <!-- Inner Rim Light (Atmosphere) -->
-            <circle cx="820" cy="300" r="28.671115273688493" fill="none" stroke="#FF00E6" stroke-width="2" opacity="0.3">
+            <circle cx="820" cy="300" r="33.46590910919642" fill="none" stroke="#00FF94" stroke-width="2" opacity="0.3">
             </circle>
             
             <!-- Texture/Overlay -->
@@ -443,12 +443,12 @@
             
             
             <!-- Mood Glow -->
-            <circle cx="820" cy="300" r="34.40533832842619" fill="none" stroke="#FF00E6" stroke-width="1" opacity="0.4" filter="url(#glow)">
+            <circle cx="820" cy="300" r="40.1590909310357" fill="none" stroke="#00FF94" stroke-width="1" opacity="0.4" filter="url(#glow)">
               <animate attributeName="opacity" values="0.2;0.5;0.2" dur="3s" repeatCount="indefinite" />
             </circle>
 
             <!-- Active Indicator (Ring when HUD is showing this planet) -->
-            <circle cx="820" cy="300" r="38.67111527368849" fill="none" stroke="white" stroke-width="1.5" stroke-dasharray="3 3" opacity="0">
+            <circle cx="820" cy="300" r="43.46590910919642" fill="none" stroke="white" stroke-width="1.5" stroke-dasharray="3 3" opacity="0">
                <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.5;0.6;1" dur="40s" repeatCount="indefinite" />
                <animateTransform attributeName="transform" type="rotate" from="0 820 300" to="360 820 300" dur="10s" repeatCount="indefinite" />
             </circle>
@@ -464,8 +464,8 @@
                   dur="16.129032258064516s" 
                   repeatCount="indefinite" 
               />
-              <text x="820" y="343.6711152736885" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold" style="text-shadow: 0px 0px 4px black;">
-                Anime_quote_Terminal
+              <text x="820" y="348.46590910919645" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold" style="text-shadow: 0px 0px 4px black;">
+                nibble
               </text>
             </g>
           </g>
@@ -473,12 +473,12 @@
       </a>
     
 
-      <!-- Planet: Embedded-Rust -->
-      <a href="https://github.com/Vaishnav-Sabari-Girish/Embedded-Rust" target="_blank" style="cursor: pointer;">
+      <!-- Planet: Anime_quote_Terminal -->
+      <a href="https://github.com/Vaishnav-Sabari-Girish/Anime_quote_Terminal" target="_blank" style="cursor: pointer;">
         <defs>
           <radialGradient id="planetGrad-6" cx="30%" cy="30%" r="70%">
-            <stop offset="0%" stop-color="#DEA584" stop-opacity="1" />
-            <stop offset="50%" stop-color="#DEA584" stop-opacity="0.8" />
+            <stop offset="0%" stop-color="#808080" stop-opacity="1" />
+            <stop offset="50%" stop-color="#808080" stop-opacity="0.8" />
             <stop offset="100%" stop-color="#000" stop-opacity="1" />
           </radialGradient>
         </defs>
@@ -498,28 +498,26 @@
             />
             
             <!-- Planet Body (3D Effect) -->
-            <circle cx="880" cy="300" r="56.09022515081872" fill="url(#planetGrad-6)">
-               <title>Embedded-Rust (Rust)</title>
+            <circle cx="880" cy="300" r="28.671115273688493" fill="url(#planetGrad-6)">
+               <title>Anime_quote_Terminal (Shell)</title>
             </circle>
             
             <!-- Inner Rim Light (Atmosphere) -->
-            <circle cx="880" cy="300" r="56.09022515081872" fill="none" stroke="#00FF94" stroke-width="2" opacity="0.3">
+            <circle cx="880" cy="300" r="28.671115273688493" fill="none" stroke="#FF00E6" stroke-width="2" opacity="0.3">
             </circle>
             
             <!-- Texture/Overlay -->
             
             
             
-               <path d="M875 295 L885 305 M882 292 L878 302" stroke="rgba(0,0,0,0.3)" stroke-width="1" />
-            
             
             <!-- Mood Glow -->
-            <circle cx="880" cy="300" r="67.30827018098246" fill="none" stroke="#00FF94" stroke-width="1" opacity="0.4" filter="url(#glow)">
+            <circle cx="880" cy="300" r="34.40533832842619" fill="none" stroke="#FF00E6" stroke-width="1" opacity="0.4" filter="url(#glow)">
               <animate attributeName="opacity" values="0.2;0.5;0.2" dur="3s" repeatCount="indefinite" />
             </circle>
 
             <!-- Active Indicator (Ring when HUD is showing this planet) -->
-            <circle cx="880" cy="300" r="66.09022515081872" fill="none" stroke="white" stroke-width="1.5" stroke-dasharray="3 3" opacity="0">
+            <circle cx="880" cy="300" r="38.67111527368849" fill="none" stroke="white" stroke-width="1.5" stroke-dasharray="3 3" opacity="0">
                <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.6;0.7;1" dur="40s" repeatCount="indefinite" />
                <animateTransform attributeName="transform" type="rotate" from="0 880 300" to="360 880 300" dur="10s" repeatCount="indefinite" />
             </circle>
@@ -535,8 +533,8 @@
                   dur="14.705882352941176s" 
                   repeatCount="indefinite" 
               />
-              <text x="880" y="371.0902251508187" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold" style="text-shadow: 0px 0px 4px black;">
-                Embedded-Rust
+              <text x="880" y="343.6711152736885" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold" style="text-shadow: 0px 0px 4px black;">
+                Anime_quote_Terminal
               </text>
             </g>
           </g>
@@ -544,12 +542,12 @@
       </a>
     
 
-      <!-- Planet: dotfiles -->
-      <a href="https://github.com/Vaishnav-Sabari-Girish/dotfiles" target="_blank" style="cursor: pointer;">
+      <!-- Planet: Embedded-Rust -->
+      <a href="https://github.com/Vaishnav-Sabari-Girish/Embedded-Rust" target="_blank" style="cursor: pointer;">
         <defs>
           <radialGradient id="planetGrad-7" cx="30%" cy="30%" r="70%">
-            <stop offset="0%" stop-color="#808080" stop-opacity="1" />
-            <stop offset="50%" stop-color="#808080" stop-opacity="0.8" />
+            <stop offset="0%" stop-color="#DEA584" stop-opacity="1" />
+            <stop offset="50%" stop-color="#DEA584" stop-opacity="0.8" />
             <stop offset="100%" stop-color="#000" stop-opacity="1" />
           </radialGradient>
         </defs>
@@ -569,12 +567,12 @@
             />
             
             <!-- Planet Body (3D Effect) -->
-            <circle cx="940" cy="300" r="58.17387601536315" fill="url(#planetGrad-7)">
-               <title>dotfiles (Shell)</title>
+            <circle cx="940" cy="300" r="56.09022515081872" fill="url(#planetGrad-7)">
+               <title>Embedded-Rust (Rust)</title>
             </circle>
             
             <!-- Inner Rim Light (Atmosphere) -->
-            <circle cx="940" cy="300" r="58.17387601536315" fill="none" stroke="#FF00E6" stroke-width="2" opacity="0.3">
+            <circle cx="940" cy="300" r="56.09022515081872" fill="none" stroke="#00FF94" stroke-width="2" opacity="0.3">
             </circle>
             
             <!-- Texture/Overlay -->
@@ -585,12 +583,12 @@
             
             
             <!-- Mood Glow -->
-            <circle cx="940" cy="300" r="69.80865121843577" fill="none" stroke="#FF00E6" stroke-width="1" opacity="0.4" filter="url(#glow)">
+            <circle cx="940" cy="300" r="67.30827018098246" fill="none" stroke="#00FF94" stroke-width="1" opacity="0.4" filter="url(#glow)">
               <animate attributeName="opacity" values="0.2;0.5;0.2" dur="3s" repeatCount="indefinite" />
             </circle>
 
             <!-- Active Indicator (Ring when HUD is showing this planet) -->
-            <circle cx="940" cy="300" r="68.17387601536315" fill="none" stroke="white" stroke-width="1.5" stroke-dasharray="3 3" opacity="0">
+            <circle cx="940" cy="300" r="66.09022515081872" fill="none" stroke="white" stroke-width="1.5" stroke-dasharray="3 3" opacity="0">
                <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.7;0.8;1" dur="40s" repeatCount="indefinite" />
                <animateTransform attributeName="transform" type="rotate" from="0 940 300" to="360 940 300" dur="10s" repeatCount="indefinite" />
             </circle>
@@ -606,8 +604,8 @@
                   dur="13.513513513513514s" 
                   repeatCount="indefinite" 
               />
-              <text x="940" y="373.17387601536313" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold" style="text-shadow: 0px 0px 4px black;">
-                dotfiles
+              <text x="940" y="371.0902251508187" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold" style="text-shadow: 0px 0px 4px black;">
+                Embedded-Rust
               </text>
             </g>
           </g>
@@ -615,12 +613,12 @@
       </a>
     
 
-      <!-- Planet: Hayasen-Examples -->
-      <a href="https://github.com/Vaishnav-Sabari-Girish/Hayasen-Examples" target="_blank" style="cursor: pointer;">
+      <!-- Planet: dotfiles -->
+      <a href="https://github.com/Vaishnav-Sabari-Girish/dotfiles" target="_blank" style="cursor: pointer;">
         <defs>
           <radialGradient id="planetGrad-8" cx="30%" cy="30%" r="70%">
-            <stop offset="0%" stop-color="#DEA584" stop-opacity="1" />
-            <stop offset="50%" stop-color="#DEA584" stop-opacity="0.8" />
+            <stop offset="0%" stop-color="#808080" stop-opacity="1" />
+            <stop offset="50%" stop-color="#808080" stop-opacity="0.8" />
             <stop offset="100%" stop-color="#000" stop-opacity="1" />
           </radialGradient>
         </defs>
@@ -640,12 +638,12 @@
             />
             
             <!-- Planet Body (3D Effect) -->
-            <circle cx="1000" cy="300" r="48.877465446079505" fill="url(#planetGrad-8)">
-               <title>Hayasen-Examples (Rust)</title>
+            <circle cx="1000" cy="300" r="58.17387601536315" fill="url(#planetGrad-8)">
+               <title>dotfiles (Shell)</title>
             </circle>
             
             <!-- Inner Rim Light (Atmosphere) -->
-            <circle cx="1000" cy="300" r="48.877465446079505" fill="none" stroke="#FF4500" stroke-width="2" opacity="0.3">
+            <circle cx="1000" cy="300" r="58.17387601536315" fill="none" stroke="#FF00E6" stroke-width="2" opacity="0.3">
             </circle>
             
             <!-- Texture/Overlay -->
@@ -656,12 +654,12 @@
             
             
             <!-- Mood Glow -->
-            <circle cx="1000" cy="300" r="58.652958535295404" fill="none" stroke="#FF4500" stroke-width="1" opacity="0.4" filter="url(#glow)">
+            <circle cx="1000" cy="300" r="69.80865121843577" fill="none" stroke="#FF00E6" stroke-width="1" opacity="0.4" filter="url(#glow)">
               <animate attributeName="opacity" values="0.2;0.5;0.2" dur="3s" repeatCount="indefinite" />
             </circle>
 
             <!-- Active Indicator (Ring when HUD is showing this planet) -->
-            <circle cx="1000" cy="300" r="58.877465446079505" fill="none" stroke="white" stroke-width="1.5" stroke-dasharray="3 3" opacity="0">
+            <circle cx="1000" cy="300" r="68.17387601536315" fill="none" stroke="white" stroke-width="1.5" stroke-dasharray="3 3" opacity="0">
                <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.8;0.9;1" dur="40s" repeatCount="indefinite" />
                <animateTransform attributeName="transform" type="rotate" from="0 1000 300" to="360 1000 300" dur="10s" repeatCount="indefinite" />
             </circle>
@@ -677,8 +675,8 @@
                   dur="12.5s" 
                   repeatCount="indefinite" 
               />
-              <text x="1000" y="363.8774654460795" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold" style="text-shadow: 0px 0px 4px black;">
-                Hayasen-Examples
+              <text x="1000" y="373.17387601536313" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold" style="text-shadow: 0px 0px 4px black;">
+                dotfiles
               </text>
             </g>
           </g>
@@ -686,8 +684,8 @@
       </a>
     
 
-      <!-- Planet: chart_ratatui -->
-      <a href="https://github.com/Vaishnav-Sabari-Girish/chart_ratatui" target="_blank" style="cursor: pointer;">
+      <!-- Planet: Hayasen-Examples -->
+      <a href="https://github.com/Vaishnav-Sabari-Girish/Hayasen-Examples" target="_blank" style="cursor: pointer;">
         <defs>
           <radialGradient id="planetGrad-9" cx="30%" cy="30%" r="70%">
             <stop offset="0%" stop-color="#DEA584" stop-opacity="1" />
@@ -711,12 +709,12 @@
             />
             
             <!-- Planet Body (3D Effect) -->
-            <circle cx="1060" cy="300" r="54.774655356276256" fill="url(#planetGrad-9)">
-               <title>chart_ratatui (Rust)</title>
+            <circle cx="1060" cy="300" r="48.877465446079505" fill="url(#planetGrad-9)">
+               <title>Hayasen-Examples (Rust)</title>
             </circle>
             
             <!-- Inner Rim Light (Atmosphere) -->
-            <circle cx="1060" cy="300" r="54.774655356276256" fill="none" stroke="#FF4500" stroke-width="2" opacity="0.3">
+            <circle cx="1060" cy="300" r="48.877465446079505" fill="none" stroke="#FF4500" stroke-width="2" opacity="0.3">
             </circle>
             
             <!-- Texture/Overlay -->
@@ -727,12 +725,12 @@
             
             
             <!-- Mood Glow -->
-            <circle cx="1060" cy="300" r="65.7295864275315" fill="none" stroke="#FF4500" stroke-width="1" opacity="0.4" filter="url(#glow)">
+            <circle cx="1060" cy="300" r="58.652958535295404" fill="none" stroke="#FF4500" stroke-width="1" opacity="0.4" filter="url(#glow)">
               <animate attributeName="opacity" values="0.2;0.5;0.2" dur="3s" repeatCount="indefinite" />
             </circle>
 
             <!-- Active Indicator (Ring when HUD is showing this planet) -->
-            <circle cx="1060" cy="300" r="64.77465535627626" fill="none" stroke="white" stroke-width="1.5" stroke-dasharray="3 3" opacity="0">
+            <circle cx="1060" cy="300" r="58.877465446079505" fill="none" stroke="white" stroke-width="1.5" stroke-dasharray="3 3" opacity="0">
                <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.9;1;1" dur="40s" repeatCount="indefinite" />
                <animateTransform attributeName="transform" type="rotate" from="0 1060 300" to="360 1060 300" dur="10s" repeatCount="indefinite" />
             </circle>
@@ -748,8 +746,8 @@
                   dur="11.627906976744185s" 
                   repeatCount="indefinite" 
               />
-              <text x="1060" y="369.77465535627624" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold" style="text-shadow: 0px 0px 4px black;">
-                chart_ratatui
+              <text x="1060" y="363.8774654460795" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold" style="text-shadow: 0px 0px 4px black;">
+                Hayasen-Examples
               </text>
             </g>
           </g>
@@ -847,12 +845,12 @@
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.5; 0.501; 0.599; 0.6; 1" dur="40s" repeatCount="indefinite" />
 
         <!-- Panel Content -->
-        <text x="20" y="520" fill="#FF00E6" font-family="Courier New, monospace" font-size="16" font-weight="bold">> Anime_quote_Terminal</text>
-        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: Shell | STARS: 5</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: ENERGETIC | SIZE: 18kb</text>
+        <text x="20" y="520" fill="#00FF94" font-family="Courier New, monospace" font-size="16" font-weight="bold">> nibble</text>
+        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: Rust | STARS: 9</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: FOCUSED | SIZE: 89kb</text>
         
         <!-- Progress Bar -->
-        <rect x="20" y="565" width="0" height="2" fill="#FF00E6">
+        <rect x="20" y="565" width="0" height="2" fill="#00FF94">
             <animate attributeName="width" values="0;200" begin="20s" dur="4s" fill="freeze" />
         </rect>
       </g>
@@ -863,12 +861,12 @@
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.6; 0.601; 0.699; 0.7; 1" dur="40s" repeatCount="indefinite" />
 
         <!-- Panel Content -->
-        <text x="20" y="520" fill="#00FF94" font-family="Courier New, monospace" font-size="16" font-weight="bold">> Embedded-Rust</text>
-        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: Rust | STARS: 4</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: FOCUSED | SIZE: 167724kb</text>
+        <text x="20" y="520" fill="#FF00E6" font-family="Courier New, monospace" font-size="16" font-weight="bold">> Anime_quote_Terminal</text>
+        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: Shell | STARS: 5</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: ENERGETIC | SIZE: 18kb</text>
         
         <!-- Progress Bar -->
-        <rect x="20" y="565" width="0" height="2" fill="#00FF94">
+        <rect x="20" y="565" width="0" height="2" fill="#FF00E6">
             <animate attributeName="width" values="0;200" begin="24s" dur="4s" fill="freeze" />
         </rect>
       </g>
@@ -879,12 +877,12 @@
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.7; 0.701; 0.799; 0.8; 1" dur="40s" repeatCount="indefinite" />
 
         <!-- Panel Content -->
-        <text x="20" y="520" fill="#FF00E6" font-family="Courier New, monospace" font-size="16" font-weight="bold">> dotfiles</text>
-        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: Shell | STARS: 2</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: ENERGETIC | SIZE: 335919kb</text>
+        <text x="20" y="520" fill="#00FF94" font-family="Courier New, monospace" font-size="16" font-weight="bold">> Embedded-Rust</text>
+        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: Rust | STARS: 4</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: FOCUSED | SIZE: 167724kb</text>
         
         <!-- Progress Bar -->
-        <rect x="20" y="565" width="0" height="2" fill="#FF00E6">
+        <rect x="20" y="565" width="0" height="2" fill="#00FF94">
             <animate attributeName="width" values="0;200" begin="28s" dur="4s" fill="freeze" />
         </rect>
       </g>
@@ -895,12 +893,12 @@
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.8; 0.801; 0.899; 0.9; 1" dur="40s" repeatCount="indefinite" />
 
         <!-- Panel Content -->
-        <text x="20" y="520" fill="#FF4500" font-family="Courier New, monospace" font-size="16" font-weight="bold">> Hayasen-Examples</text>
-        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: Rust | STARS: 2</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: STRESSED | SIZE: 15151kb</text>
+        <text x="20" y="520" fill="#FF00E6" font-family="Courier New, monospace" font-size="16" font-weight="bold">> dotfiles</text>
+        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: Shell | STARS: 2</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: ENERGETIC | SIZE: 335919kb</text>
         
         <!-- Progress Bar -->
-        <rect x="20" y="565" width="0" height="2" fill="#FF4500">
+        <rect x="20" y="565" width="0" height="2" fill="#FF00E6">
             <animate attributeName="width" values="0;200" begin="32s" dur="4s" fill="freeze" />
         </rect>
       </g>
@@ -911,9 +909,9 @@
         <animate attributeName="opacity" values="0; 0; 1; 1" keyTimes="0; 0.9; 0.901; 1" dur="40s" repeatCount="indefinite" />
 
         <!-- Panel Content -->
-        <text x="20" y="520" fill="#FF4500" font-family="Courier New, monospace" font-size="16" font-weight="bold">> chart_ratatui</text>
+        <text x="20" y="520" fill="#FF4500" font-family="Courier New, monospace" font-size="16" font-weight="bold">> Hayasen-Examples</text>
         <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: Rust | STARS: 2</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: STRESSED | SIZE: 108180kb</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: STRESSED | SIZE: 15151kb</text>
         
         <!-- Progress Bar -->
         <rect x="20" y="565" width="0" height="2" fill="#FF4500">
