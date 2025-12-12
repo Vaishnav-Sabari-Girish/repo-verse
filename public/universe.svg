@@ -335,8 +335,8 @@
       </a>
     
 
-      <!-- Planet: Kiroku -->
-      <a href="https://github.com/Vaishnav-Sabari-Girish/Kiroku" target="_blank" style="cursor: pointer;">
+      <!-- Planet: nibble -->
+      <a href="https://github.com/Vaishnav-Sabari-Girish/nibble" target="_blank" style="cursor: pointer;">
         <defs>
           <radialGradient id="planetGrad-4" cx="30%" cy="30%" r="70%">
             <stop offset="0%" stop-color="#DEA584" stop-opacity="1" />
@@ -360,12 +360,12 @@
             />
             
             <!-- Planet Body (3D Effect) -->
-            <circle cx="760" cy="300" r="41.747645171343166" fill="url(#planetGrad-4)">
-               <title>Kiroku (Rust)</title>
+            <circle cx="760" cy="300" r="33.46590910919642" fill="url(#planetGrad-4)">
+               <title>nibble (Rust)</title>
             </circle>
             
             <!-- Inner Rim Light (Atmosphere) -->
-            <circle cx="760" cy="300" r="41.747645171343166" fill="none" stroke="#00FF94" stroke-width="2" opacity="0.3">
+            <circle cx="760" cy="300" r="33.46590910919642" fill="none" stroke="#00FF94" stroke-width="2" opacity="0.3">
             </circle>
             
             <!-- Texture/Overlay -->
@@ -374,12 +374,12 @@
             
             
             <!-- Mood Glow -->
-            <circle cx="760" cy="300" r="50.0971742056118" fill="none" stroke="#00FF94" stroke-width="1" opacity="0.4" filter="url(#glow)">
+            <circle cx="760" cy="300" r="40.1590909310357" fill="none" stroke="#00FF94" stroke-width="1" opacity="0.4" filter="url(#glow)">
               <animate attributeName="opacity" values="0.2;0.5;0.2" dur="3s" repeatCount="indefinite" />
             </circle>
 
             <!-- Active Indicator (Ring when HUD is showing this planet) -->
-            <circle cx="760" cy="300" r="51.747645171343166" fill="none" stroke="white" stroke-width="1.5" stroke-dasharray="3 3" opacity="0">
+            <circle cx="760" cy="300" r="43.46590910919642" fill="none" stroke="white" stroke-width="1.5" stroke-dasharray="3 3" opacity="0">
                <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.4;0.5;1" dur="40s" repeatCount="indefinite" />
                <animateTransform attributeName="transform" type="rotate" from="0 760 300" to="360 760 300" dur="10s" repeatCount="indefinite" />
             </circle>
@@ -395,8 +395,8 @@
                   dur="17.857142857142858s" 
                   repeatCount="indefinite" 
               />
-              <text x="760" y="356.74764517134315" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold" style="text-shadow: 0px 0px 4px black;">
-                Kiroku
+              <text x="760" y="348.46590910919645" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold" style="text-shadow: 0px 0px 4px black;">
+                nibble
               </text>
             </g>
           </g>
@@ -404,8 +404,8 @@
       </a>
     
 
-      <!-- Planet: nibble -->
-      <a href="https://github.com/Vaishnav-Sabari-Girish/nibble" target="_blank" style="cursor: pointer;">
+      <!-- Planet: Kiroku -->
+      <a href="https://github.com/Vaishnav-Sabari-Girish/Kiroku" target="_blank" style="cursor: pointer;">
         <defs>
           <radialGradient id="planetGrad-5" cx="30%" cy="30%" r="70%">
             <stop offset="0%" stop-color="#DEA584" stop-opacity="1" />
@@ -429,12 +429,12 @@
             />
             
             <!-- Planet Body (3D Effect) -->
-            <circle cx="820" cy="300" r="33.46590910919642" fill="url(#planetGrad-5)">
-               <title>nibble (Rust)</title>
+            <circle cx="820" cy="300" r="41.747645171343166" fill="url(#planetGrad-5)">
+               <title>Kiroku (Rust)</title>
             </circle>
             
             <!-- Inner Rim Light (Atmosphere) -->
-            <circle cx="820" cy="300" r="33.46590910919642" fill="none" stroke="#00FF94" stroke-width="2" opacity="0.3">
+            <circle cx="820" cy="300" r="41.747645171343166" fill="none" stroke="#00FF94" stroke-width="2" opacity="0.3">
             </circle>
             
             <!-- Texture/Overlay -->
@@ -443,12 +443,12 @@
             
             
             <!-- Mood Glow -->
-            <circle cx="820" cy="300" r="40.1590909310357" fill="none" stroke="#00FF94" stroke-width="1" opacity="0.4" filter="url(#glow)">
+            <circle cx="820" cy="300" r="50.0971742056118" fill="none" stroke="#00FF94" stroke-width="1" opacity="0.4" filter="url(#glow)">
               <animate attributeName="opacity" values="0.2;0.5;0.2" dur="3s" repeatCount="indefinite" />
             </circle>
 
             <!-- Active Indicator (Ring when HUD is showing this planet) -->
-            <circle cx="820" cy="300" r="43.46590910919642" fill="none" stroke="white" stroke-width="1.5" stroke-dasharray="3 3" opacity="0">
+            <circle cx="820" cy="300" r="51.747645171343166" fill="none" stroke="white" stroke-width="1.5" stroke-dasharray="3 3" opacity="0">
                <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.5;0.6;1" dur="40s" repeatCount="indefinite" />
                <animateTransform attributeName="transform" type="rotate" from="0 820 300" to="360 820 300" dur="10s" repeatCount="indefinite" />
             </circle>
@@ -464,8 +464,8 @@
                   dur="16.129032258064516s" 
                   repeatCount="indefinite" 
               />
-              <text x="820" y="348.46590910919645" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold" style="text-shadow: 0px 0px 4px black;">
-                nibble
+              <text x="820" y="356.74764517134315" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold" style="text-shadow: 0px 0px 4px black;">
+                Kiroku
               </text>
             </g>
           </g>
@@ -829,9 +829,9 @@
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.4; 0.401; 0.499; 0.5; 1" dur="40s" repeatCount="indefinite" />
 
         <!-- Panel Content -->
-        <text x="20" y="520" fill="#00FF94" font-family="Courier New, monospace" font-size="16" font-weight="bold">> Kiroku</text>
-        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: Rust | STARS: 13</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: FOCUSED | SIZE: 1407kb</text>
+        <text x="20" y="520" fill="#00FF94" font-family="Courier New, monospace" font-size="16" font-weight="bold">> nibble</text>
+        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: Rust | STARS: 18</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: FOCUSED | SIZE: 89kb</text>
         
         <!-- Progress Bar -->
         <rect x="20" y="565" width="0" height="2" fill="#00FF94">
@@ -845,9 +845,9 @@
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.5; 0.501; 0.599; 0.6; 1" dur="40s" repeatCount="indefinite" />
 
         <!-- Panel Content -->
-        <text x="20" y="520" fill="#00FF94" font-family="Courier New, monospace" font-size="16" font-weight="bold">> nibble</text>
-        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: Rust | STARS: 9</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: FOCUSED | SIZE: 89kb</text>
+        <text x="20" y="520" fill="#00FF94" font-family="Courier New, monospace" font-size="16" font-weight="bold">> Kiroku</text>
+        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: Rust | STARS: 13</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: FOCUSED | SIZE: 1407kb</text>
         
         <!-- Progress Bar -->
         <rect x="20" y="565" width="0" height="2" fill="#00FF94">
