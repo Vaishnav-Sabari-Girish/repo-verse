@@ -613,8 +613,8 @@
       </a>
     
 
-      <!-- Planet: rust_bangalore_december_2025 -->
-      <a href="https://github.com/Vaishnav-Sabari-Girish/rust_bangalore_december_2025" target="_blank" style="cursor: pointer;">
+      <!-- Planet: dotfiles -->
+      <a href="https://github.com/Vaishnav-Sabari-Girish/dotfiles" target="_blank" style="cursor: pointer;">
         <defs>
           <radialGradient id="planetGrad-8" cx="30%" cy="30%" r="70%">
             <stop offset="0%" stop-color="#808080" stop-opacity="1" />
@@ -638,12 +638,12 @@
             />
             
             <!-- Planet Body (3D Effect) -->
-            <circle cx="1000" cy="300" r="53.43734488152903" fill="url(#planetGrad-8)">
-               <title>rust_bangalore_december_2025 (Shell)</title>
+            <circle cx="1000" cy="300" r="58.17446538527503" fill="url(#planetGrad-8)">
+               <title>dotfiles (Shell)</title>
             </circle>
             
             <!-- Inner Rim Light (Atmosphere) -->
-            <circle cx="1000" cy="300" r="53.43734488152903" fill="none" stroke="#FF00E6" stroke-width="2" opacity="0.3">
+            <circle cx="1000" cy="300" r="58.17446538527503" fill="none" stroke="#FF00E6" stroke-width="2" opacity="0.3">
             </circle>
             
             <!-- Texture/Overlay -->
@@ -654,12 +654,12 @@
             
             
             <!-- Mood Glow -->
-            <circle cx="1000" cy="300" r="64.12481385783484" fill="none" stroke="#FF00E6" stroke-width="1" opacity="0.4" filter="url(#glow)">
+            <circle cx="1000" cy="300" r="69.80935846233002" fill="none" stroke="#FF00E6" stroke-width="1" opacity="0.4" filter="url(#glow)">
               <animate attributeName="opacity" values="0.2;0.5;0.2" dur="3s" repeatCount="indefinite" />
             </circle>
 
             <!-- Active Indicator (Ring when HUD is showing this planet) -->
-            <circle cx="1000" cy="300" r="63.43734488152903" fill="none" stroke="white" stroke-width="1.5" stroke-dasharray="3 3" opacity="0">
+            <circle cx="1000" cy="300" r="68.17446538527503" fill="none" stroke="white" stroke-width="1.5" stroke-dasharray="3 3" opacity="0">
                <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.8;0.9;1" dur="40s" repeatCount="indefinite" />
                <animateTransform attributeName="transform" type="rotate" from="0 1000 300" to="360 1000 300" dur="10s" repeatCount="indefinite" />
             </circle>
@@ -675,8 +675,8 @@
                   dur="12.5s" 
                   repeatCount="indefinite" 
               />
-              <text x="1000" y="368.43734488152904" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold" style="text-shadow: 0px 0px 4px black;">
-                rust_bangalore_december_2025
+              <text x="1000" y="373.174465385275" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold" style="text-shadow: 0px 0px 4px black;">
+                dotfiles
               </text>
             </g>
           </g>
@@ -684,8 +684,8 @@
       </a>
     
 
-      <!-- Planet: dotfiles -->
-      <a href="https://github.com/Vaishnav-Sabari-Girish/dotfiles" target="_blank" style="cursor: pointer;">
+      <!-- Planet: rust_bangalore_december_2025 -->
+      <a href="https://github.com/Vaishnav-Sabari-Girish/rust_bangalore_december_2025" target="_blank" style="cursor: pointer;">
         <defs>
           <radialGradient id="planetGrad-9" cx="30%" cy="30%" r="70%">
             <stop offset="0%" stop-color="#808080" stop-opacity="1" />
@@ -709,12 +709,12 @@
             />
             
             <!-- Planet Body (3D Effect) -->
-            <circle cx="1060" cy="300" r="58.17444752728179" fill="url(#planetGrad-9)">
-               <title>dotfiles (Shell)</title>
+            <circle cx="1060" cy="300" r="53.43734488152903" fill="url(#planetGrad-9)">
+               <title>rust_bangalore_december_2025 (Shell)</title>
             </circle>
             
             <!-- Inner Rim Light (Atmosphere) -->
-            <circle cx="1060" cy="300" r="58.17444752728179" fill="none" stroke="#FF00E6" stroke-width="2" opacity="0.3">
+            <circle cx="1060" cy="300" r="53.43734488152903" fill="none" stroke="#FF00E6" stroke-width="2" opacity="0.3">
             </circle>
             
             <!-- Texture/Overlay -->
@@ -725,12 +725,12 @@
             
             
             <!-- Mood Glow -->
-            <circle cx="1060" cy="300" r="69.80933703273814" fill="none" stroke="#FF00E6" stroke-width="1" opacity="0.4" filter="url(#glow)">
+            <circle cx="1060" cy="300" r="64.12481385783484" fill="none" stroke="#FF00E6" stroke-width="1" opacity="0.4" filter="url(#glow)">
               <animate attributeName="opacity" values="0.2;0.5;0.2" dur="3s" repeatCount="indefinite" />
             </circle>
 
             <!-- Active Indicator (Ring when HUD is showing this planet) -->
-            <circle cx="1060" cy="300" r="68.17444752728179" fill="none" stroke="white" stroke-width="1.5" stroke-dasharray="3 3" opacity="0">
+            <circle cx="1060" cy="300" r="63.43734488152903" fill="none" stroke="white" stroke-width="1.5" stroke-dasharray="3 3" opacity="0">
                <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.9;1;1" dur="40s" repeatCount="indefinite" />
                <animateTransform attributeName="transform" type="rotate" from="0 1060 300" to="360 1060 300" dur="10s" repeatCount="indefinite" />
             </circle>
@@ -746,8 +746,8 @@
                   dur="11.627906976744185s" 
                   repeatCount="indefinite" 
               />
-              <text x="1060" y="373.1744475272818" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold" style="text-shadow: 0px 0px 4px black;">
-                dotfiles
+              <text x="1060" y="368.43734488152904" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold" style="text-shadow: 0px 0px 4px black;">
+                rust_bangalore_december_2025
               </text>
             </g>
           </g>
@@ -893,9 +893,9 @@
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.8; 0.801; 0.899; 0.9; 1" dur="40s" repeatCount="indefinite" />
 
         <!-- Panel Content -->
-        <text x="20" y="520" fill="#FF00E6" font-family="Courier New, monospace" font-size="16" font-weight="bold">> rust_bangalore_december_2025</text>
+        <text x="20" y="520" fill="#FF00E6" font-family="Courier New, monospace" font-size="16" font-weight="bold">> dotfiles</text>
         <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: Shell | STARS: 2</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: ENERGETIC | SIZE: 69271kb</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: ENERGETIC | SIZE: 335985kb</text>
         
         <!-- Progress Bar -->
         <rect x="20" y="565" width="0" height="2" fill="#FF00E6">
@@ -909,9 +909,9 @@
         <animate attributeName="opacity" values="0; 0; 1; 1" keyTimes="0; 0.9; 0.901; 1" dur="40s" repeatCount="indefinite" />
 
         <!-- Panel Content -->
-        <text x="20" y="520" fill="#FF00E6" font-family="Courier New, monospace" font-size="16" font-weight="bold">> dotfiles</text>
+        <text x="20" y="520" fill="#FF00E6" font-family="Courier New, monospace" font-size="16" font-weight="bold">> rust_bangalore_december_2025</text>
         <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: Shell | STARS: 2</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: ENERGETIC | SIZE: 335983kb</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: ENERGETIC | SIZE: 69271kb</text>
         
         <!-- Progress Bar -->
         <rect x="20" y="565" width="0" height="2" fill="#FF00E6">
